@@ -1,0 +1,22 @@
+{
+  "name": "langgraph-remote-graphs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "dev": "nodemon index.ts"
+  },
+  "prettier": "@ww/prettier-config",
+  "dependencies": {
+    "@langchain/langgraph": "^0.2.54",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.10",
+    "@ww/prettier-config": "^1.5.0",
+    "nodemon": "^3.1.9"
+  }
+}
