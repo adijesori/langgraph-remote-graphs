@@ -5,6 +5,8 @@ It uses the following two repositories:
 
 It is using the following workflow:
 
+![workflow](./docs/graph.png)
+
 In order to run it:
 1. Clone the repository
 2. Run `npm i`
